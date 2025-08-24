@@ -1,4 +1,4 @@
-<p align="center"><i>👉 USE AT YOUR OWN RISK</i></p>
+<p align="center"><b>👉 USE AT YOUR OWN RISK</b></p>
 
 <br>
 
