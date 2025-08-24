@@ -1,2 +1,32 @@
-# oc-gigabyte-b660m
-Hackintosh OC for Gigabyte B66M D3 AX WIFI
+<p align="center"><i>USE AT YOUR OWN RISK.</i></p>
+
+The OC is built for `macOS Ventura 13.7`. If you prefer to use `macOS Monterey` or `macOS Sonoma`
+
+## System Requirements
+
+**Motherboard**: Gigabyte B660M D3SH AX WIFI
+**CPU**: Intel Core i3 12100F
+**RAM**: 16x2 GB 3200 MHz
+**GPU**: AMD RX 6600 8 GB
+**Casing**: XPG Valor Air
+
+## Not Working
+
+- Airdrop
+- iServices
+- Bluetooth 5.0+ *(Only on Sonoma)*
+
+Everything else is tested and working well.
+
+## Misc. Workarounds
+
+#### Bluetooth 
+
+Bluetooth is working on `Monterey` and `Ventura` but requires latest version of [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) for `Sonoma`.
+
+#### HiDPi Scaling
+
+By default, macOS doesn't play well with non-retina displays. If you're using a 1440p monitor, use [BetterDisplay](https://github.com/waydabber/BetterDisplay). On 4K, you can perfectly scale to 1080p.
+
+## LICENSE
+MIT
