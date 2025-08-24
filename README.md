@@ -26,7 +26,7 @@ Everything else is tested and working well.
 
 Bluetooth 5.0+ is working on `Monterey` and `Ventura` but requires latest version of [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) for `Sonoma`.
 
-#### HiDPi Scaling
+#### HiDPI
 
 By default, macOS doesn't play well with non-retina displays. If you're using a 1440p monitor, use [BetterDisplay](https://github.com/waydabber/BetterDisplay). On 4K, you can perfectly scale to 1080p.
 
