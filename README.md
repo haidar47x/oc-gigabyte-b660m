@@ -7,11 +7,11 @@ The OC is built for `macOS Ventura 13.7`. If you prefer to use `macOS Monterey` 
 
 ## System Requirements
 
-**Motherboard**: Gigabyte B660M D3SH AX WIFI
-**CPU**: Intel Core i3 12100F
-**RAM**: 16x2 GB 3200 MHz
-**GPU**: AMD RX 6600 8 GB
-**Casing**: XPG Valor Air
+- **Motherboard**: Gigabyte B660M D3SH AX WIFI
+- **CPU**: Intel Core i3 12100F
+- **RAM**: 16x2 GB 3200 MHz
+- **GPU**: AMD RX 6600 8 GB
+- **Casing**: XPG Valor Air
 
 ## Not Working
 
