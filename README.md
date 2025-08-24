@@ -1,5 +1,8 @@
 <p align="center"><i>USE AT YOUR OWN RISK.</i></p>
 
+<br>
+<br>
+
 The OC is built for `macOS Ventura 13.7`. If you prefer to use `macOS Monterey` or `macOS Sonoma`, replace the WiFi Kext (`AiportItlwm`) with the appropriate version from the [itlwm](https://github.com/OpenIntelWireless/itlwm).
 
 ## System Requirements
