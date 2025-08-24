@@ -24,7 +24,7 @@ Everything else is tested and working well.
 
 #### Bluetooth 
 
-Bluetooth is working on `Monterey` and `Ventura` but requires latest version of [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) for `Sonoma`.
+Bluetooth 5.0+ is working on `Monterey` and `Ventura` but requires latest version of [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) for `Sonoma`.
 
 #### HiDPi Scaling
 
